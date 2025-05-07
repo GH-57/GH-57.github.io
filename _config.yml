@@ -18,6 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "겁쟁이 개발자의 웃픈 성장기"
+tabtitle                 : "꾸준히, 성실히"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Your Name"
@@ -113,11 +114,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "배근호"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  location         : "Gyeongsan, South Korea"
+  email            : "plue05007@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
