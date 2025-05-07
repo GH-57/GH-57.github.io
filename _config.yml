@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "겁쟁이 개발자의 웃픈 성장기"
+title                    : "<겁쟁이 개발자의 웃픈 성장기>"
 tabtitle                 : "꾸준히, 성실히"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
