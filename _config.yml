@@ -115,7 +115,7 @@ analytics:
 # Site Author
 author:
   name             : "근호"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /assets/img.blog.webp # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
   location         : "Gyeongsan, South Korea"
   email            : "plue05007@gmail.com"
